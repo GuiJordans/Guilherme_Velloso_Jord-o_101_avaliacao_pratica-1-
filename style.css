@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+.imagem-projeto {
+    width: 300px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #555;
+    text-decoration: none;
+    font-weight: bold;
+}
